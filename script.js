@@ -1,4 +1,5 @@
-document.querySelector('#text').addEventListener('focusout', myText);
++
+    +document.querySelector('#text').addEventListener('focusout', myText);
 document.querySelector('#text').addEventListener('focusout', myPass);
 
 document.querySelector('#btn').addEventListener('click',function(){
